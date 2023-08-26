@@ -47,8 +47,9 @@ Follow these steps to compile and deploy the CustomToken smart contract:
 If you encounter any issues or have questions about using this smart contract, you can seek help in Ethereum development communities or forums. Common issues might include gas fees, contract deployment, or interactions with the contract's functions.
 
 ## Authors
-
-This smart contract was created by an anonymous developer and is provided as an example of an ERC-20 token contract. If you have questions or need assistance, please reach out to the Ethereum development community for support.
+- Moksh Verma
+- 22BCT10059@cuchd.in
+If you have questions or need assistance, please reach out to the my EMAIL or  Ethereum development community for support.
 
 ## License
 
