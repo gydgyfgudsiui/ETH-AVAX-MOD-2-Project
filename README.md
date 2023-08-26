@@ -49,7 +49,8 @@ If you encounter any issues or have questions about using this smart contract, y
 ## Authors
 - Moksh Verma
 - 22BCT10059@cuchd.in
-If you have questions or need assistance, please reach out to the my EMAIL or  Ethereum development community for support.
+
+If you have questions or need assistance, please reach out to the my [EMAIL](22bct10059@cuchd.in) or  Ethereum development community for support.
 
 ## License
 
